@@ -1,0 +1,32 @@
+.container {
+    margin-top: 20px;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  .form-group {
+    margin-bottom: 10px;
+  }
+
+  .movie {
+    background-color: #f8f9fa;
+    border: 1px solid #d1d1d1;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .movie span {
+    margin-right: 10px;
+  }
+
+  .remove-movie {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
